@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#api-content {
+    font-size: 16px;
+}
+
+.post {
+    background: white;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 500px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-danger {
+    font-size: 14px;
+}
+
+.success {
+    color: green;
+    margin-top: 10px;
+    font-weight: bold;
+}
